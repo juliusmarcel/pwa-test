@@ -8,13 +8,13 @@
 // });
 
 
-const CACHE_NAME = 'pqs-cache-v1';
+const CACHE_NAME = 'pwa-test';
 const FILES_TO_CACHE = [
   './',
   './index.html',
   './css/style.css',
-  './icons/icon-192x192.png',
-  './icons/icon-512x512.png',
+  './assets/icons/icon-192.png',
+  './assets/icons/icon-512.png',
   './manifest.json'
 ];
 
