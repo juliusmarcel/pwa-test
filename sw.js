@@ -11,7 +11,7 @@
 const CACHE_NAME = 'pqs-cache-v1';
 const FILES_TO_CACHE = [
   './',
-  './index.php',
+  './index.html',
   './css/style.css',
   './icons/icon-192x192.png',
   './icons/icon-512x512.png',
